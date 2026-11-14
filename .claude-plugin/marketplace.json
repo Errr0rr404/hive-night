@@ -1,0 +1,5 @@
+{
+  "name": "hive-night",
+  "owner": { "name": "Zan", "url": "https://github.com/Errr0rr404" },
+  "plugins": [{ "name": "hive-night", "source": "./" }]
+}

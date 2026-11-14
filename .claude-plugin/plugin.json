@@ -1,0 +1,10 @@
+{
+  "name": "hive-night",
+  "version": "0.1.0",
+  "description": "Hive Night: a dark emerald-and-blue hexagon backdrop with slow glows, working cells and comets, behind the desktop chat. /hive-theme off|on.",
+  "author": { "name": "Zan", "url": "https://github.com/Errr0rr404" },
+  "homepage": "https://github.com/Errr0rr404/hive-night",
+  "repository": "https://github.com/Errr0rr404/hive-night",
+  "license": "MIT",
+  "keywords": ["theme", "backdrop", "hexagon", "dark", "claude-desktop"]
+}
