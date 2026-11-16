@@ -6,21 +6,17 @@ A free theme for the Claude desktop app. It puts a dark hexagon floor behind the
 
 ## Install
 
-At the prompt of a Claude Code session in the desktop app:
-
-```
-/plugin install hive-night --marketplace Errr0rr404/hive-night
-```
-
-Answer `y` to add the marketplace, then pick a scope.
-
-From a shell:
+In a terminal (needs the `claude` CLI):
 
 ```bash
 claude plugin install hive-night --marketplace Errr0rr404/hive-night
 ```
 
-The theme turns on when a session starts.
+Or ask Claude in any Code session of the desktop app: "Run `claude plugin install hive-night --marketplace Errr0rr404/hive-night`".
+
+Then start a new session in the desktop app: the theme turns on when a session starts.
+
+Typing `/plugin install …` in the desktop app's message box does not work: `/plugin` is a terminal command, and the desktop app doesn't have it. In Claude Code in a terminal, `/plugin install hive-night --marketplace Errr0rr404/hive-night` works too.
 
 ## Use
 
